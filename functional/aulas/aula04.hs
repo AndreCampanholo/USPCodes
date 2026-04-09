@@ -1,4 +1,3 @@
-import Distribution.SPDX (LicenseId(LGPL_2_0_only))
 -- MONAD
 -- Falando sobre funções que podem falhar: uso de "Maybe"
 -- Ex: f :: a -> Maybe a
